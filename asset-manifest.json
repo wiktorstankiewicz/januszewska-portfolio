@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/januszewska-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/januszewska-portfolio/static/js/main.686834aa.js",
+    "static/js/787.bc70d5db.chunk.js": "/januszewska-portfolio/static/js/787.bc70d5db.chunk.js",
+    "static/media/logo.svg": "/januszewska-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/januszewska-portfolio/index.html",
+    "main.073c9b0a.css.map": "/januszewska-portfolio/static/css/main.073c9b0a.css.map",
+    "main.686834aa.js.map": "/januszewska-portfolio/static/js/main.686834aa.js.map",
+    "787.bc70d5db.chunk.js.map": "/januszewska-portfolio/static/js/787.bc70d5db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.686834aa.js"
+  ]
+}
